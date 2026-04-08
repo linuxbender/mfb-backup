@@ -1,0 +1,28 @@
+Changelog Tanzbär II
+
+v1.05
+
+- some midi control changes did not work - fixed
+- midi control change for decay, pitch and pitch decay for Congas added
+
+v1.06
+
+- USB Midi improved
+- MIDI Clock Receive in USB Midi added
+
+v1.07
+
+- Midi CCs for Midi Tracks could not be changed - fixed
+
+v1.08
+
+- last step: lcd shows 0..15 instead of 1..16 - changed
+- REAL REC: works only on bar 1 - fixed
+- knob recording on VOICE1,VOICE2 or VOICE3 set level of other sample instruments to 0 - fixed
+- fader led are not updated on pattern change - fixed
+- program change: lcd not updated - fixed
+- prog change: sets machine to Man Trigger Mode - changed
+- Step Leds not updated when new pattern loaded - fixed
+- shift + play: note panic: stop running note of bass synth - added
+- master fader's led shows tempo - added
+- REAL REC: on sample instrument individual sample selects are lost - fixed
